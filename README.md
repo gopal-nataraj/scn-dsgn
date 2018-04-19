@@ -1,4 +1,4 @@
-# QMRI Acquisition Design via Min-Max Optimization
+# Acquisition Design via Min-Max Optimization
 
 This is the project directory for code related to the paper: 
 
